@@ -46,8 +46,11 @@ Quick Git walkthrough:
     git push origin 1-hr-sum-array
 
 Making A pull request:
+Click on the green button reading "create pull & merge".
+Make sure you choose your master branch as the base, and not the original repo's master.
+On finishing click on create pull.
+Alert your intsructor once you've created the pull request for review purposes.
 
-NOTE: Make sure you choose your master branch as the base, and not the original repo's master.
 
 Reviewing Code: Your code will be reviewed and if it looks good, your pull request will be accepted and the merge done.
 
