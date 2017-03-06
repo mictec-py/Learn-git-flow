@@ -2,6 +2,7 @@
 learning github essentials using python simple excersices
 
 We'll mainly make use of Github issues, branching, pull requests (PR) and reviews.
+
 Workflow:
 
     Fork the given repository to your Github profile
@@ -18,9 +19,7 @@ Workflow:
     Raise a PR against your master branch (not this project's master branch).
     Your PR will then be reviewed by your peers and merged appropriately
 
-See example here
-Appendix
-Workflow Explained
+
 
 Quick Git walkthrough:
 
